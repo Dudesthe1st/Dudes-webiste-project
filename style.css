@@ -1,0 +1,52 @@
+.header{
+    background-color: rgba(6, 25, 27, 0.8);
+    padding: 50px;
+    text-align: center;
+    font-size: 50px ;
+    border: 5px solid rgb(0, 0, 0);
+    
+}
+
+body{
+    background-image: url('images/wallpaper3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    margin: 80px;
+}
+
+.div{
+    text-align: center;
+    background-color: rgba(15, 72, 78, 0.8);
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 30px ;
+    padding: 10px;
+}
+.nav{
+    text-align: center;
+    background-color: rgba(15, 72, 78, 0.8);
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 20px ;
+    padding: 10px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.smallPics{
+ width: 10%;
+ float: left;
+ 
+}
+
+.pic{
+    width: 30%;
+}
+
+.footer{
+    background-color: rgba(3, 10, 9 , 0.8);
+    padding: 20px;
+    border: 3px solid black;
+    margin-top: 20px;
+}
